@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9d03759-9a2c-44a2-9cab-5fb1e036594a" name="Default Changelist" comment="" />
+    <list default="true" id="b9d03759-9a2c-44a2-9cab-5fb1e036594a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/pages_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helpers/pages_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/confirmations/new.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/mailer/confirmation_instructions.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/mailer/email_changed.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/mailer/password_change.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/mailer/reset_password_instructions.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/mailer/unlock_instructions.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/passwords/edit.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/passwords/new.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/shared/_error_messages.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/shared/_links.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/devise/unlocks/new.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/index.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/initializers/devise.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/locales/devise.en.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20190902031117_devise_create_users.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/controllers/pages_controller_test.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/fixtures/users.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/models/user_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/r600.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/r600.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,25 +67,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="480">
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="317">
+              <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -60,6 +98,33 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/environments/development.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/r600.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="50" />
@@ -80,6 +145,43 @@
             <path>
               <item name="r600" type="b2602c69:ProjectViewProjectNode" />
               <item name="r600" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r600" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r600" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r600" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="packs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r600" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r600" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r600" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,32 +317,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567392534039</updated>
-      <workItem from="1567392535272" duration="315000" />
+      <workItem from="1567392535272" duration="1737000" />
     </task>
+    <task id="LOCAL-00001" summary="My first rails 6 - init commit :)">
+      <created>1567392933444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567392933445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="315000" />
+    <option name="totallyTimeSpent" value="1737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="27" width="1159" height="1053" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24471831" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24471831" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32910052" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27195767" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.27089947" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.27195767" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32910052" />
+      <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="right" id="Database" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -250,10 +359,85 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first rails 6 - init commit :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first rails 6 - init commit :)" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/r600@Development__r600.rcov" NAME="Development: r600 Coverage Results" MODIFIED="1567392842870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="r600" />
+    <SUITE FILE_PATH="coverage/r600@Development__r600.rcov" NAME="Development: r600 Coverage Results" MODIFIED="1567393790007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="r600" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/master.key">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/locales/devise.en.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/spring.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20190902031117_devise_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/javascript/packs/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -261,20 +445,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
