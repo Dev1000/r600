@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Template Project.
 
 Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby: 2.6.3
+* Ruby on Rails: 6.0
+* Devise: 4.7.1
+* React_On_Rails: 11.3
+* ReactJS: 16.9.0
+* Bootstrap 4.3.1
+* PostgreSQL
