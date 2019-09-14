@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9d03759-9a2c-44a2-9cab-5fb1e036594a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile.dev-server" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/hello_world_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/bundles/HelloWorld/components/HelloWorld.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/javascript/packs/hello-world-bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/hello_world/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/hello_world.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/react_on_rails.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/r600.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/r600.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="b9d03759-9a2c-44a2-9cab-5fb1e036594a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/webpack/environment.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -70,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="315">
+              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -131,48 +106,6 @@
             <path>
               <item name="r600" type="b2602c69:ProjectViewProjectNode" />
               <item name="r600" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
-              <item name="r600" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
-              <item name="r600" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
-              <item name="r600" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
-              <item name="r600" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
-              <item name="r600" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="packs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
-              <item name="r600" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="r600" type="b2602c69:ProjectViewProjectNode" />
-              <item name="r600" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="webpack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,7 +268,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567392534039</updated>
-      <workItem from="1567392535272" duration="3134000" />
+      <workItem from="1567392535272" duration="3242000" />
     </task>
     <task id="LOCAL-00001" summary="My first rails 6 - init commit :)">
       <created>1567392933444</created>
@@ -379,17 +312,31 @@
       <option name="project" value="LOCAL" />
       <updated>1567395444904</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Install react_on_rails">
+      <created>1567395686588</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567395686588</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Install react_on_rails">
+      <created>1567395702650</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567395702650</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3134000" />
+    <option name="totallyTimeSpent" value="3242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="27" width="1159" height="1053" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24471831" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24471831" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
@@ -397,7 +344,7 @@
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.27195767" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.27195767" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -418,10 +365,11 @@
     <MESSAGE value="Add bootstrap via webpack" />
     <MESSAGE value="Add react_on_rails" />
     <MESSAGE value="Add webpack react" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add webpack react" />
+    <MESSAGE value="Install react_on_rails" />
+    <option name="LAST_COMMIT_MESSAGE" value="Install react_on_rails" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/r600@Localhost.rcov" NAME="Localhost Coverage Results" MODIFIED="1567395544227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="r600" />
+    <SUITE FILE_PATH="coverage/r600@Localhost.rcov" NAME="Localhost Coverage Results" MODIFIED="1568419516919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="r600" />
     <SUITE FILE_PATH="coverage/r600@Development__r600.rcov" NAME="Development: r600 Coverage Results" MODIFIED="1567394929376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="r600" />
   </component>
   <component name="editorHistoryManager">
@@ -466,13 +414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="52" selection-start-column="52" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -497,13 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/webpack/environment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
@@ -513,15 +447,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="315">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
